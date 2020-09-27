@@ -1,7 +1,7 @@
 
-print("Not a test, its a tut")
+print("Not a test, not a tut")
 
-print("Not a test, its an exam")
+print("Not a test, not an exam")
 
 
 print("Hello")
