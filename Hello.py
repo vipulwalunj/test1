@@ -1,4 +1,4 @@
-print("Not a test, its a quiz")
+print("Not a test, its an exam")
 
 print("Hello")
 print("Nice")
